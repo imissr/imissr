@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-[![Khaled's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/imissr/github-readme-stats)
+[![Khaled's GitHub stats](https://github-readme-stats.vercel.app/api?username=imissr)](https://github.com/imissr/github-readme-stats)
 
 <!--
 **imissr/imissr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
