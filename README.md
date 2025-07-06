@@ -56,7 +56,5 @@
 
 ## 📫 Contact
 
-- 🔗 LinkedIn: [your-profile](https://linkedin.com/in/yourprofile)  
-- 🐦 Twitter: [@your_twitter](https://twitter.com/your_twitter)  
-- ✉️ Email: youremail@example.com  
-- 🌐 Portfolio: https://yourwebsite.com  
+- ✉️ Email: khaledmnawie300@gmail.com 
+
