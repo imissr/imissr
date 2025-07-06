@@ -21,10 +21,7 @@
 
 ## 💡 About Me
 
-- 🔭 I’m currently working on high-performance tsunami simulation and a tiny JVM implementation.  
-- 🌱 I’m deepening my knowledge of compiler optimizations and distributed systems.  
-- 👯 I’m open to collaborating on open-source developer tools and system-level libraries.  
-- ⚡ Fun fact: I once wrote a minimal JVM from scratch in C++ and Java!
+- 🔭 I’m currently working on a tiny JVM implementation.  
 
 ---
 
