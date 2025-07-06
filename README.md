@@ -2,7 +2,7 @@
 
 
 ![imissr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=imissr&theme=vue-dark&hide_border=true)
-![imissr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imissr&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 
 <!--
 **imissr/imissr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![imissr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imissr&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
