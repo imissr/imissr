@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-[![Khaled's GitHub stats](https://github-readme-stats.vercel.app/api?username=imissr)](https://github.com/imissr/github-readme-stats)
+![imissr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=imissr&theme=vue-dark&hide_border=true)
 
 <!--
 **imissr/imissr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
