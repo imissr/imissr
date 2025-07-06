@@ -56,13 +56,6 @@
 
 ---
 
-## 📈 Stats & Contributions
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imissr&theme=vue-dark&hide_border=true" alt="imissr's streak" />
-</p>
-
----
 
 ## 📫 Contact
 
