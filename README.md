@@ -98,20 +98,6 @@
 
 ---
 
-## 📊 Stats & Contributions
-
-* **GitHub Streak:**
-  ![imissr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=imissr\&theme=vue-dark\&hide_border=true)
-
-* **Pinned Repositories:**
-
-  <p align="center">
-    <a href="https://github.com/imissr/awesome-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=imissr&repo=awesome-app&theme=vue-dark" alt="Pin Awesome App" /></a>
-    <a href="https://github.com/imissr/dataviz"><img src="https://github-readme-stats.vercel.app/api/pin/?username=imissr&repo=dataviz&theme=vue-dark" alt="Pin DataViz" /></a>
-  </p>
-
----
-
 ## 📫 Contact Me
 
 <p align="center">
