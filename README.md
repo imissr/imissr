@@ -47,7 +47,7 @@
 | Project                         | Description                                                        | Technologies                             |
 |---------------------------------|--------------------------------------------------------------------|------------------------------------------|
 | 🌊 **HPC Tsunami Simulation**    | High-performance computing simulation of tsunami wave propagation. | C++, MPI, OpenMP                         |
-| ☕ **Tiny JVM**                   | Minimal Java Virtual Machine implemented from scratch.             | Java, Bytecode                          |
+| ☕ **Tiny JVM**                   | Minimal Java Virtual Machine implemented from scratch.             | Java, Bytecode,C++,garbage Collector Framwork                        |
 | 📧 **Simple Mail Client**        | Lightweight desktop email client with IMAP/SMTP support.           | Java, JavaFX, IMAP/SMTP                  |
 | 📊 **C4 Diagram Generator**      | Automatic C4 architecture diagram generation tool.                 | Java, Structurizr, Jackson, Graphviz     |
 
